@@ -28,7 +28,7 @@ Built using Python, and MySql for a robust and scalable solution.
 
 ## Contribute:
 
-We welcome contributions! Open issues, submit pull requests, or suggest features. Check out our [contributing guidelines](link-to-contributing-guidelines) for more information.
+We welcome contributions! Open issues, submit pull requests, or suggest features. 
 
 ## License:
 
@@ -36,4 +36,14 @@ This project is licensed under the [MIT License](LICENSE).
 
 Elevate your college management experience with Intelligent College Manager—where innovation meets education.
 
-## Output
+## Output:
+### Home Admin Page:
+![image](https://github.com/Nidhi22245/Intelligent-College-Manager/assets/126691380/baf4680a-3701-43cb-909a-c86dd4c277b3)
+
+### Student Pannel:
+![image](https://github.com/Nidhi22245/Intelligent-College-Manager/assets/126691380/edd97a81-72d7-4f3e-bdbb-2b66dd0822ae)
+
+### Face Recogniion :
+![frat](https://github.com/Nidhi22245/Intelligent-College-Manager/assets/126691380/8f3c83de-fa3a-487e-9fb7-ef14f8e261b7)
+
+
