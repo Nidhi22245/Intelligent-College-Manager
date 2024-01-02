@@ -39,7 +39,7 @@ Elevate your college management experience with Intelligent College Manager—wh
 ### Student Pannel:
 ![image](https://github.com/Nidhi22245/Intelligent-College-Manager/assets/126691380/edd97a81-72d7-4f3e-bdbb-2b66dd0822ae)
 
-### Face Recogniion:
+### Face Recognition:
 ![frat](https://github.com/Nidhi22245/Intelligent-College-Manager/assets/126691380/8f3c83de-fa3a-487e-9fb7-ef14f8e261b7)
 
 ### Time Table Dashboard:
